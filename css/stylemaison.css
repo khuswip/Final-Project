@@ -28,7 +28,11 @@ a{
     padding: 0 100px;
     justify-content: space-around;
 }
-
+.menu5 i{
+    color: #000000d0;
+    position: relative;
+    height: 20px;
+  }
 
 .menu5 li {
     display: block;
