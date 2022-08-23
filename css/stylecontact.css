@@ -102,7 +102,7 @@ a{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background-image: url(../images/museum.jpg); 
+    background-image: url(../images/art3.jpg); 
     background-size: cover;
 }
 .contact .content{
@@ -238,7 +238,7 @@ ul{
     padding: 0 15px;
 }
 .footer-col h2{
-    font-size: 21px;
+    font-size: 19px;
     color: #333333;
     text-transform: capitalize;
     margin-bottom: 35px;
@@ -260,7 +260,7 @@ ul{
     margin-bottom: 10px; 
 }
 .footer-col ul li a{   
-    font-size: 20px;
+    font-size: 18px;
     text-transform: capitalize;
     color: #333333;
     text-decoration: none;
