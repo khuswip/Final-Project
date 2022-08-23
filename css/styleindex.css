@@ -43,6 +43,11 @@ a{
   justify-content: space-around;
 }
 
+.menu5 i{
+  color: #ffffff;
+  position: relative;
+  height: 20px;
+}
 
 .menu5 li {
   display: block;
@@ -213,8 +218,9 @@ height: 100%;
   .box:hover{
   background-color: #e2e1e1;
   }
-
-  .contain{
+  
+/*footer*/
+.contain{
     max-width: 1170px;
     margin: auto;
 }
